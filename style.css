@@ -6,8 +6,8 @@ body{
 .img{
   height: 90px;
   width: 120px;
-
-  padding: 20px 0 0 10px
+  border-radius: 60px 20px;
+  padding: 20px 0 0 10px;
 
 }
 
