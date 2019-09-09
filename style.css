@@ -1,6 +1,7 @@
 body{
   margin :0;
   font-family: Helvetica;
+  background-color: #FFF6E2;
 }
 
 .img{
@@ -8,8 +9,13 @@ body{
   width: 120px;
   border-radius: 60px 20px;
   padding: 20px 0 0 10px;
-
 }
+
+.font {
+  font-weight: 200;
+}
+
+
 
 #container{
   display: flex;
